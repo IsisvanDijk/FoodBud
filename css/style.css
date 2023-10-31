@@ -335,6 +335,10 @@ footer a:hover {
         align-self: start;
     }
 
+    main img {
+        width: 50vw;
+    }
+
     .foodbud {
         display: flex;
         flex-direction: column;
